@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507562224 source:g:\daspro\pdp3\analisiskasustabung\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507434707 source:d:\analisissequential\main.c
+	<stdio.h>
+	<stdlib.h>
+
